@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="casee-ad-sdk-2.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BaseAnimation/libs/casee-ad-sdk-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
